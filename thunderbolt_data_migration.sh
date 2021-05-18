@@ -6,7 +6,7 @@
 # This variable can be used if you are testing the script
 # Set to true while testing, the rsync will be bypassed and nothing permanent will done to this Mac
 # Set to false when used in production
-testing="false"  # (true|false)
+testing="test"  # (true|false)
 
 # The full path of the log file
 log="/var/log/alectrona.log"
