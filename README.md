@@ -39,3 +39,5 @@ testing="true"  # (true|false)
 <p align="center">
     <img alt="Main Image" width="100%" src="images/fullscreen_jamfHelper.png">
 </p>
+
+Please see the LICENSE.md file for licensing information.
